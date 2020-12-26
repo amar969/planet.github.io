@@ -1,0 +1,49 @@
+
+header{
+    padding: 5px;
+    text-align: center;
+    background-color: #1abc9c;
+    color: white;
+    font-size: 20px;
+}
+
+header h1 {
+    color: White;
+    font-family: cursive;
+    font-weight: 200;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    right: 150px;
+    top: 700px;
+    width: 100%;
+    height: 2.5rem;
+}
+
+footer p{
+    color:#ccc;
+}
+
+.note {
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 440px;
+    margin: 16px;
+    float: left;
+}
+
+.note h2{
+    font-size: 1.1em;
+    margin-bottom: 6px;
+}
+
+.note p{
+    font-size: 2.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
